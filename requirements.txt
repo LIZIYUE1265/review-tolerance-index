@@ -1,0 +1,9 @@
+streamlit
+pandas
+openpyxl
+plotly
+beautifulsoup4
+matplotlib
+fugashi
+unidic-lite
+numpy
